@@ -13,7 +13,7 @@ OireachtasDebatesScraper is a Python tool for scraping and analyzing Dáil debat
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/OireachtasDebatesScraper.git
+   git clone https://github.com/weinerrb/OireachtasDebatesScraper.git
    cd OireachtasDebatesScraper
 
 
@@ -53,7 +53,7 @@ OireachtasDebatesScraper is a Python tool designed to scrape and analyze Dáil d
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/OireachtasDebatesScraper.git
+   git clone https://github.com/weinerrb/OireachtasDebatesScraper.git
    cd OireachtasDebatesScraper
    ```
 
