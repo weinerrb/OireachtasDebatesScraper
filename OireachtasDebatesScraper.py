@@ -19,7 +19,7 @@ License: MIT
 
 Citation:
 If you use this software, please cite as:
-Ruairí Weiner. (2025). OireachtasDebatesScraper: A Python tool for scraping and analysing Irish parliamentary debates.
+Ruairí Weiner. (2025). OireachtasDebatesScraper: A Python tool for scraping and analysing Irish parliamentary debates. https://doi.org/10.5281/zenodo.15297414
 
 """
 
