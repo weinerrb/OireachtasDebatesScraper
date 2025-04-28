@@ -11,7 +11,7 @@ Key Features:
 
 Requirements:
 - Selenium WebDriver (ChromeDriver).
-- Python libraries: pandas, BeautifulSoup, re, tqdm, matplotlib, seaborn, wordcloud, textblob, schedule, requests.
+- Python libraries: pandas, BeautifulSoup, re, tqdm, matplotlib, seaborn, textblob, schedule, requests.
 
 Author: Ruairí Weiner
 
@@ -26,11 +26,11 @@ Ruairí Weiner. (2025). OireachtasDebatesScraper: A Python tool for scraping and
 __version__ = "1.0.0"
 __all__ = [
     "DebScraper", "ProcessAndSaveTexts", "ScrapeDebates", "AnalyseFrequencies",
-    "VisualiseFrequencies", "GenerateWordCloud", "ExportCombinedTexts",
-    "AnalyseTermCooccurrence", "VisualiseCooccurrenceMatrix", "ExportToExcel",
-    "ScrapeParliamentarianNames", "CountParliamentarianMentions", "CountParliamentarianDebates",
-    "CountPartyMentions", "CountPartyDebates", "CountConstituencyMentions",
-    "CountConstituencyDebates", "CreateCaseLevelData", "ScheduleScraping"
+    "VisualiseFrequencies", "ExportCombinedTexts", "AnalyseTermCooccurrence",
+    "VisualiseCooccurrenceMatrix", "ExportToExcel", "ScrapeParliamentarianNames",
+    "CountParliamentarianMentions", "CountParliamentarianDebates", "CountPartyMentions",
+    "CountPartyDebates", "CountConstituencyMentions", "CountConstituencyDebates",
+    "CreateCaseLevelData", "ScheduleScraping"
 ]
 
 import argparse
@@ -46,7 +46,6 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 import matplotlib.pyplot as plt
 import seaborn as sns
-from wordcloud import WordCloud
 from textblob import TextBlob
 import logging
 import schedule

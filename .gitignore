@@ -1,2 +1,2 @@
 # macOS system files
-.DS_Store
+.DS_Storegit push origin maingit ls-files | grep .DS_Store

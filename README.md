@@ -95,7 +95,6 @@ The following Python libraries are required:
 - `beautifulsoup4`
 - `matplotlib`
 - `seaborn`
-- `wordcloud`
 - `textblob`
 - `requests`
 - `schedule`

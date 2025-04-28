@@ -3,7 +3,6 @@ pandas
 beautifulsoup4
 matplotlib
 seaborn
-wordcloud
 textblob
 requests
 schedule
